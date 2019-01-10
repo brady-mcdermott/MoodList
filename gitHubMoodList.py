@@ -1,4 +1,3 @@
-#Today's Playlist spotify URI: spotify:user:bradymcdermott202:playlist:6FSOEfqm2YRiPkIKXeZW73
 import urllib3
 import facebook
 import requests
