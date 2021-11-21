@@ -26,4 +26,4 @@ Currently, MoodList compares certain key words and phrases from your posts and c
 </br></br>
 
 ### Disclaimer
-This code was written in 2019 at a High School Hackathon. The APIs have since gone out of date.
+This code was written in January 2019 at a High School Hackathon. The APIs have since gone out of date.
